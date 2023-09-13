@@ -1,0 +1,30 @@
+body{
+    display: flex;
+
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.div-imagen{
+    display: flex;
+    align-items: center;
+}
+
+.div-imagen button{
+    height: 40px;
+    width: 100px;
+    background-color: green;
+}
+
+.div-imagen img{
+    height: 500px;
+    width: 500px;
+}
+
+.div-imagen div{
+    display: flex;
+    flex-direction: column;
+}
